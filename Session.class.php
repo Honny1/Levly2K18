@@ -7,11 +7,11 @@ class Session {
 	}
 	
 	public function setLevel($value) {
-		$_SESSION['level'] = $value;
+		$_SESSION['pass'] = $value;
 	}
 	
 	public function getLevel() {
-		return $_SESSION['level'];
+		return $_SESSION['pass'];
 	}
 }
 
