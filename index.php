@@ -7,14 +7,14 @@
 		$session->setLevel("start");
 	}
 	
-	if(isset($_GET['level']) && !empty($_GET['pass']))
-	{
+	if(isset($_GET['pass']) && !empty($_GET['pass']))
+	{           
 		if(file_exists("./levels/".$_GET['pass'].".php")) 
 		{
 			$session->setLevel($_GET['pass']);
 			include("levels/" . $session->getLevel() . ".php");
 		}
-		else {
+		else {                   
 			include("levels/" . $session->getLevel() . ".php");
 		}
 	}

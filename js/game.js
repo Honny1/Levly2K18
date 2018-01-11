@@ -77,6 +77,18 @@ function keyPush(evt) {
         case 40:
             xv=0;yv=1;
             break;
+        case 87:
+            xv=-1;yv=0;
+            break;
+        case 65:
+            xv=0;yv=-1;
+            break;
+        case 68:
+            xv=1;yv=0;
+            break;
+        case 83:
+            xv=0;yv=1;
+            break;
     }
 }
 
@@ -95,7 +107,7 @@ function alert1() {
 		alert("Rada zkus se podívat do zdrojového kódu.")
 	}
 	else{
-		alert("Zkusit znovu. Když mě porazíš.");
+		alert("Zkusit znovu. Když mě porazíš dostaneš odměnu.");
 		counter+=1;
 	}
     zz = 0;

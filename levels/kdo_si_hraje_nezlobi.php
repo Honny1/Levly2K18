@@ -12,13 +12,11 @@
        <h1>LEVEL 5</h1>
   </div>
   <div>
-           
                     <script src="js/game.js"></script>
                     <center><canvas class="god" id="gc" width="400" height="400"></canvas></center>
-                    <center><p id="nwm"></p></center>
-           
+                    <center><p id="nwm"></p></center>       
   <br> <br>
-           
+  <p>MOVE = WASD or ARROWS </p>  
   <br><br>
   </div>
 <!-- Pod timhle upozornenim neni v kodu uz nic co by se tykalo zadani!!! !-->

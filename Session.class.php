@@ -14,5 +14,4 @@ class Session {
 		return $_SESSION['pass'];
 	}
 }
-
 ?>
