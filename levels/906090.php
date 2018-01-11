@@ -13,13 +13,17 @@
   </div>
   <div>
            Je KONEC nebo ne?</br>
-                   <a href="https://github.com/Honny1/Levly">Source</a><br />
+                   <a href="https://github.com/Honny1/LevlyLastVersion">Source</a><br />
 		Do papíru si napiš:
-           9410
-  <br> <br>
-           
-  <br><br>
-  </div>
+              <p id="random"></p>
+  <br> <br>        
+  </div>        
+     <script  language="JavaScript" type="text/JavaScript"> 
+        onload=function() {
+                var x = document.getElementById("random");
+                x.innerHTML = Math.floor((Math.random() * 9999) + 1);
+            }
+     </script>   
 <!-- Pod timhle upozornenim neni v kodu uz nic co by se tykalo zadani!!! !-->
 <!-- Pod timhle upozornenim neni v kodu uz nic co by se tykalo zadani!!! !-->
 <!-- Pod timhle upozornenim neni v kodu uz nic co by se tykalo zadani!!! !-->
