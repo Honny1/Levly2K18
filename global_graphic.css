@@ -1,0 +1,28 @@
+/* CSS Document */
+body {
+  color: green;
+  font-style: "Courier";
+  background-color: #000000;
+  font-family: Courier, Helvetica, sans-serif;
+}
+
+div {
+  width: 1024px;
+  text-align: center;
+  margin: auto;
+  padding: 2px;
+}
+
+.god{
+    border:5px solid red;
+}
+
+.level{
+  font-family: Courier, cursive;
+  font-size: 22px;
+}
+
+.zpet {   
+  font-size: 12px;
+  color: green;
+}
