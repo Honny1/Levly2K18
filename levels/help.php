@@ -8,6 +8,7 @@
     <title>Purkiáda 2k18 - Hack test</title>
     </head>
     <body>
+        <div class="col-md-4 col-md-offset-4 elements text-center">
   <div class="level">
        <h1>HEX TO ASCII<br/>ASCII TO HEX</h1>
   </div>
@@ -44,9 +45,9 @@
                     } 
                     </script>
            
-  <br> <br>
-           
+  <br> <br> 
   <br><br>
+  </div>
   </div>
 <!-- Pod timhle upozornenim neni v kodu uz nic co by se tykalo zadani!!! !-->
 <!-- Pod timhle upozornenim neni v kodu uz nic co by se tykalo zadani!!! !-->
@@ -57,7 +58,7 @@
 </div>
 <div>        
       <p class="zpet">
-        <a href="http://purkiada.sspbrno.cz/rocnik2018/">Zpět na rozcestník</a>
+        <a href="http://purkiada.sspbrno.cz/man-in-black/">Zpět na rozcestník</a>
       </p>    
     </div>
   </body>

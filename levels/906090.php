@@ -36,7 +36,7 @@
 </div>
 <div>
       <p class="zpet">
-        <a href="http://purkiada.sspbrno.cz/rocnik2018/"  class="btn btn-info btn-sm">Zpět na rozcestník</a>
+        <a href="http://purkiada.sspbrno.cz/man-in-black/"  class="btn btn-info btn-sm">Zpět na rozcestník</a>
       </p>
     </div>
   </div>
