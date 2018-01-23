@@ -17,7 +17,7 @@
   </div>
   <div>
            <a href="http://purkiada.sspbrno.cz/men-in-black/uloha2/imgs/jpg.JPG">
-		<img src="http://purkiada.sspbrno.cz/men-in-black/uloha2/imgs/jpg.JPG" height="400"></a>
+		<img src="http://purkiada.sspbrno.cz/men-in-black/uloha2/imgs/jpg.JPG" height="400" alt="purkyňka"></a>
 
     <form action="./index.php" method="GET">
       <input type="text" class="elements form-control" name="pass">
