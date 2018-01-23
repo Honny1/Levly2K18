@@ -20,7 +20,6 @@
 
   <br> <br>
 
-  <br><br>
   </div>
 <!-- Pod timhle upozornenim neni v kodu uz nic co by se tykalo zadani!!! !-->
 <!-- Pod timhle upozornenim neni v kodu uz nic co by se tykalo zadani!!! !-->
@@ -31,7 +30,7 @@
 </div>
 <div>
       <p class="zpet">
-        <a href="http://purkiada.sspbrno.cz/man-in-black/" class="btn btn-info btn-sm">Zpět na rozcestník</a>
+        <a href="http://purkiada.sspbrno.cz/men-in-black/" class="btn btn-info btn-sm">Zpět na rozcestník</a>
       </p>
     </div>
   </body>

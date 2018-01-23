@@ -13,7 +13,7 @@
     <body>
   <div class="col-md-4 col-md-offset-4 elements text-center">
   <div class="level">
-       <h1>LEVEL </br> 6b646f5f73695f6872616a655f6e657a6c6f6269
+       <h1>LEVEL</br>6b646f5f73695f6872616a655f6e657a6c6f6269
 		<!-- Heslo? Jasný, to je přece 6b646f5f73695f6872616a655f6e657a6c6f6269 !--></h1>
   </div>
   <div>
@@ -35,7 +35,7 @@
 </div>
 <div>
       <p class="zpet">
-        <a href="http://purkiada.sspbrno.cz/man-in-black/" class="btn btn-info btn-sm">Zpět na rozcestník</a>
+        <a href="http://purkiada.sspbrno.cz/men-in-black/" class="btn btn-info btn-sm">Zpět na rozcestník</a>
       </p>
     </div>
   </div>

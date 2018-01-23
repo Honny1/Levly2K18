@@ -16,8 +16,8 @@
        <h1>LEVEL 2</h1>
   </div>
   <div>
-           <a href="./imgs/jpg.jpg">
-		<img src="./imgs/jpg.jpg" height="400"></a>
+           <a href="http://purkiada.sspbrno.cz/men-in-black/uloha2/imgs/jpg.JPG">
+		<img src="http://purkiada.sspbrno.cz/men-in-black/uloha2/imgs/jpg.JPG" height="400"></a>
 
     <form action="./index.php" method="GET">
       <input type="text" class="elements form-control" name="pass">
@@ -35,7 +35,7 @@
 </div>
 <div>
       <p class="zpet">
-        <a href="http://purkiada.sspbrno.cz/man-in-black/" class="btn btn-info btn-sm">Zpět na rozcestník</a>
+        <a href="http://purkiada.sspbrno.cz/men-in-black/" class="btn btn-info btn-sm">Zpět na rozcestník</a>
       </p>
     </div>
   </div>

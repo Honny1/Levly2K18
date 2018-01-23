@@ -2,7 +2,7 @@ window.onload=function() {
     canv=document.getElementById("gc");
     ctx=canv.getContext("2d");
     document.addEventListener("keydown",keyPush);
-    setInterval(game, 1000 / 5);
+    setInterval(game, 100);
 }
 
 let px=py=10;
@@ -53,7 +53,7 @@ function game() {
         aa = tail - 5;
         if (tail > 5) {
             nwm = "score: " + aa;
-            if (aa>6969){
+            if (aa>50){
                 nwm="Heslo je:python"
             }
             document.getElementById("nwm").innerHTML = nwm;
